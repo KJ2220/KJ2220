@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **KJ2220/KJ2220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
